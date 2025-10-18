@@ -1,3 +1,4 @@
 [tools]
 "cargo:dts-lsp" = "latest"
-"cargo:https://github.com/mskelton/dtsfmt" = "latest"
+# dtsfmt is breaking &sk at the top of the file
+# "cargo:https://github.com/mskelton/dtsfmt" = "latest"

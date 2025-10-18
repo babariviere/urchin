@@ -16,11 +16,12 @@
 #define K_FND LC(F)
 #define K_FW LA(RIGHT)
 
-sk {
-
+&sk {
   // don't release mods on other mods presses
   ignore-modifiers;
 };
+
+
 / {
   combos {
     compatible = "zmk,combos";
