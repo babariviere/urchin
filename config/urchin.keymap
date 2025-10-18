@@ -54,7 +54,7 @@
         &kp ESC     &kp K_BK    &kp K_FND    &kp K_FW    &kp INS     &kp PG_UP   &kp HOME   &kp UP     &kp END     &kp CAPS
         &sk LALT    &sk LGUI    &sk LSHIFT   &sk LCTRL   &kp RALT    &kp PG_DN   &kp LEFT   &kp DOWN   &kp RIGHT   &kp DEL
         &kp LC(Z)   &kp LC(X)   &kp LC(C)    &kp LGUI    &kp LC(V)   &kp ENTER   &kp BSPC   &kp TAB    &none       &kp PSCRN
-                                             &trans      &kp LCTRL   &kp ENTER   &mo FNC
+                                             &trans      &kp LCTRL   &kp ENTER   &mo NUM
       >;
     };
 
@@ -65,7 +65,7 @@
         &kp EXCL   &kp AT     &kp HASH     &kp DOLLAR   &kp PRCNT   &kp EQUAL   &kp GRAVE   &kp COLON   &kp SEMI   &kp PLUS
         &sk LALT   &sk LGUI   &sk LSHIFT   &sk LCTRL    &kp CARET   &kp STAR    &kp LPAR    &kp LBRC    &kp LBKT   &kp MINUS
         &none      &none      &kp BSLH     &kp PIPE     &kp AMPS    &kp TILDE   &kp RPAR    &kp RBRC    &kp RBKT   &kp UNDER
-                                           &mo FNC      &mo NUM     &trans      &trans
+                                           &mo NUM      &mo FNC     &trans      &trans
       >;
     };
 
