@@ -1,0 +1,3 @@
+[tools]
+"cargo:dts-lsp" = "latest"
+"cargo:https://github.com/mskelton/dtsfmt" = "latest"
