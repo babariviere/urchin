@@ -73,7 +73,7 @@
     num_layer {
       label = "Num";
       bindings = <
-        &none      &none      &none        &none       &none       &kp EQL    &kp N7   &kp N8   &kp N9   &kp PLUS
+        &none      &none      &none        &none       &kp DOT     &kp EQL    &kp N7   &kp N8   &kp N9   &kp PLUS
         &sk LALT   &sk LGUI   &sk LSHIFT   &sk LCTRL   &sk RALT    &kp STAR   &kp N4   &kp N5   &kp N6   &kp MINUS
         &none      &none      &kp TAB      &kp BSPC    &kp ENTER   &kp N0     &kp N1   &kp N2   &kp N3   &kp SLASH
                                            &none       &none       &none      &none
